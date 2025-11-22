@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🐉 Dragon Sage — AI Voice Agent
+A Mythical Voice Powered by Modern AI
 
-# Run and deploy your AI Studio app
+Dragon Sage is an intelligent, browser-ready voice agent built using the Murf Falcon TTS API as part of the 10 Days of AI Voice Agents Challenge by Murf AI.
+This agent combines real-time communication with the elegance of neural TTS—bringing a calm yet powerful “sage-like” voice interface to life.
 
-This contains everything you need to run your app locally.
+🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+🎙️ Real-time voice conversation in the browser
 
-## Run Locally
+🔥 Murf Falcon TTS for ultra-fast, high-quality speech
 
-**Prerequisites:**  Node.js
+⚡ Simple end-to-end setup (frontend + backend)
+
+🐉 A unique agent persona: Dragon Sage, your wise AI companion
+
+🛠️ Getting Started
+1. Clone or Fork the Repository
+git clone https://github.com/your-username/dragon-sage-voice-agent.git
+cd dragon-sage-voice-agent
+
+2. Install Dependencies
+npm install
+
+3. Add Environment Variables
+
+Create a .env file and add:
+
+MURF_API_KEY=your_api_key_here
+
+4. Run the Development Server
+npm run dev
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+You should now be able to speak with Dragon Sage in real time.
