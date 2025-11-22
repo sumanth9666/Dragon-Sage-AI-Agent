@@ -1,0 +1,7 @@
+{
+  "name": "Dragon Voice Sage",
+  "description": "A real-time voice AI agent with a Chinese Dragon aesthetic, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
